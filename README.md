@@ -27,6 +27,6 @@ X......X
 ........
 ........
 ```
-This is the expected output, marking the white bishops' diagonals.
+This is a representation of the expected output, marking the white bishops' diagonals.
 
 The goal of the project is to find algorithms that build complex concepts as a function of simpler concepts, and that can iteratively continue to build complexity. Using simpler tasks to start with has allowed me to explore a domain where I can clearly follow the path the data takes through the network, and the goal is to maintain that transparency as the network scales.
